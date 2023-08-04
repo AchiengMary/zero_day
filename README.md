@@ -1,3 +1,1 @@
-#ZERO
-
-Vagrant project!
+Vagrant project
